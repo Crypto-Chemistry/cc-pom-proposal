@@ -29,7 +29,7 @@ After an initial release and feedback from validators is received, additional fe
 $5,000 for the initial development, testing, and support of CC-POM.
 
 The breakdown of the estimated hours spent as part of this proposal is below.
-- Initial Development: 20 hours
+- Initial Development (minimum viable product): 20 hours
 - Additional Feature Development: 60 hours
 - Testing and Documentation: 20 hours
 
@@ -47,9 +47,25 @@ If the proposal passes, the funds will be handled as follows:
 Insert Note about us here
 
 ### Technical Credentials
-The development of this tool will be done primarily by Relyte, Crypto Chemistry's node operator. Relyte has experience working as both a DevOps Engineer and Securty Engineer within the SaaS and Defense industries. He has shown a willingnes and capability to provide tools to the community. Recently he has released another monitoring tool that will help Kujira validators receive alerts regardnig their price oracle wallet balances in the case that they are critically low: https://github.com/Crypto-Chemistry/walletmon
+The development of this tool will be done primarily by Relyte, Crypto Chemistry's node operator. Relyte has experience working as both a DevOps Engineer and Security Engineer within the SaaS and Defense industries. He has shown a willingness and capability to provide tools to the community. Recently he has released another monitoring tool that will help Kujira validators receive alerts regarding their price oracle wallet balances in the case that they are critically low: https://github.com/Crypto-Chemistry/walletmon
 
 
 Crypto Chemistry Github: https://github.com/Crypto-Chemistry/
 
 Relyte Github: https://github.com/Relyte
+
+## FAQ
+### What's wrong with Grafana/Prometheus for this?
+
+Nothing is inherently wrong with using Grafana and Prometheus to configure alerting for price-oracle stats. However, we believe that multiple systems should be used while configuring a system's alerting. This doesn't compete with using Grafana for this purpose, but rather acts as a different implementation of alerting in case the Grafana alerts fail. 
+
+### How did we arrive at $5,000 for the amount requested?
+
+We planned out the requirements and features that we'd like to create for the application and assigned an estimate for how long it would take to implement. The breakdown of hours in the [Our Proposal](#our-proposal) section details the high-level estimates for this proposal. For the rate of $50 USD/hour, we believe that this is a reasonable hourly rate for the difficulty of work proposed.
+
+### My question's not here. Where can I get some answers before voting on the proposal?
+
+You can reach us on Twitter or Discord most reliably. We'll be active in the Kujira Discord and monitoring the proposal_discussion channel. Feel free to tag us so we see the question quicker as well! We want the community to better discuss all governance proposals when it comes to community funds, so please critique this proposal and discuss any concerns with us. At the end of the day, discussion will drive governance proposals to hopefully be better as the Kujira ecosystem continues to grow.
+
+Twitter: @CryptoChem0000 / @RelyteCrypto / @Crypto_Chem
+Discord: CryptoChem0000#3142 / Relyte | Crypto Chemistry#5592 / Mister Swiss#5078
