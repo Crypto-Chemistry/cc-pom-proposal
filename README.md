@@ -67,5 +67,6 @@ We planned out the requirements and features that we'd like to create for the ap
 
 You can reach us on Twitter or Discord most reliably. We'll be active in the Kujira Discord and monitoring the proposal_discussion channel. Feel free to tag us so we see the question quicker as well! We want the community to better discuss all governance proposals when it comes to community funds, so please critique this proposal and discuss any concerns with us. At the end of the day, discussion will drive governance proposals to hopefully be better as the Kujira ecosystem continues to grow.
 
-Twitter: @CryptoChem0000 / @RelyteCrypto / @Crypto_Chem
+Twitter: [@CryptoChem0000](https://twitter.com/CryptoChem0000) / [@RelyteCrypto](https://twitter.com/RelyteCrypto) / [@Crypto_Chem](https://twitter.com/Crypto_Chem)
+
 Discord: CryptoChem0000#3142 / Relyte | Crypto Chemistry#5592 / Mister Swiss#5078
