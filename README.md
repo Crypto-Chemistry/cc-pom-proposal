@@ -35,6 +35,8 @@ The breakdown of the estimated hours spent as part of this proposal is below.
 
 - Average Hourly Rate: $50 USD
 
+This is intended to be a one-time funding proposal with no plans for recurring funding proposals.
+
 ## Fund Allocation
 If the proposal passes, the funds will be handled as follows:
 
