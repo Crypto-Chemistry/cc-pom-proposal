@@ -40,16 +40,7 @@ This is intended to be a one-time funding proposal with no plans for recurring f
 ## Fund Allocation
 If the proposal passes, the funds will be handled as follows:
 
-- 70% of the $KUJI will be sold to alxUSDC via FIN.
-- 15% of the $KUJI will be staked to the Crypto Chemistry validator for a minimum of 6 months.
-- 15% of the $KUJI will be staked with other validators that we feel provide useful support, documentation, and tools to validators within the Kujira ecosystem for a minimum of 6 months.
-
-For the 15% of the $KUJI that will be staked with other community validators, we will use the following guidelines. The validator must:
-- Be outside the top 25 validators
-- Regularly participate in Governance
-    - Must have voted on 6 out of 10 of the last proposals or more
-- Must have a fee greater than 0%
-
+- 100% of the $KUJI will be sold to alxUSDC via FIN to fund the development of the project
 
 ## About Crypto Chemistry
 We are Crypto Chemistry and we are a small team of node operators and content creators that have been involved in the crypto space, including the Cosmos ecosystem, since 2017. We provide professional validator services and aim to provide our clients high up-time services while ensuring we provide top-tier security & stability for the networks we validate.
